@@ -4,7 +4,7 @@ metadata:
   name: my-first-pod
 spec:
   containers:
-  - name: my-first-pod
+  - name: edit-me
     image: nginx:1.21
     resources:
       limits:
